@@ -2,5 +2,5 @@ Procrastinating on this is better than procrastinating on reddit :P
 
 TODO
 ====
-# Get jingo
-# Display form
+1. Get jingo
+2. Display form
